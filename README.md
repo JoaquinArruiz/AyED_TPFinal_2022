@@ -5,7 +5,7 @@ El proyecto consiste en una ABM (Alta Baja Modificacion) en Python, usando la li
 
 -----
 #### Descripcion:
-ABM contextualizada con un sistema de camiones que transportan mercaderia, donde hay que asignarle un silo, el tipo de mercaderia que transporta y darle un turno para la descarga (o ingreso) del camion, no se puede repetir el mismo camion, patente, etc. Se verifica que se utilice bien la libreria pickle y que se ponga en practica las funciones trabajadas en clase tales como:
+ABM contextualizada en un sistema de camiones que transportan mercaderia, donde hay que asignarle un silo, el tipo de mercaderia que transporta y darle un turno para la descarga (o ingreso) del camion, no se puede repetir el mismo camion, patente, etc. Se verifica que se utilice bien la libreria pickle y que se ponga en practica las funciones trabajadas en clase tales como:
  - Carga de datos
  - Busqueda secuencial
  - Busqueda dicotomica

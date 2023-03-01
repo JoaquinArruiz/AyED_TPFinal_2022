@@ -1,5 +1,5 @@
 # Trabajo Final - Algoritmos y Estructura de Datos
-Trabajo final para la materia algoritmos y estructura de datos.
+Trabajo final para la materia algoritmos y estructura de datos. Realizado con colaboracion con 3 alumnos ([Bruno Leo Santi](https://github.com/BrunoLeoSanti), Manuel D'Assoro, Bruno Capiglioni)
 
 El proyecto consiste en una ABM (Alta Baja Modificacion) en Python, usando la libreria [Pickle](https://docs.python.org/3/library/pickle.html).
 
